@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://t3.ftcdn.net/jpg/09/50/17/64/360_F_950176443_XQGPTseUunB0UMYARE4DqORCKiwD3Izl.jpg);
+  background-image: url('background.jpg');
   font-family: sans-serif;
   padding: 20px;
   background-size: cover; /* Ensures the image stretches to cover the entire background */
